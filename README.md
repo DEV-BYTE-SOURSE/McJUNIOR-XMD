@@ -7,7 +7,7 @@ Boom💥 💥 💥 welcome to home of Bots
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+McJUMIOR+XMD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+JUNIOR+AI{EZDD};🚀+Peace-Maker+Tech+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+McJUMIOR+XMD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+JUNIOR+AI{EZDD};🚀+JUNIOR+Tech+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -16,8 +16,8 @@ Boom💥 💥 💥 welcome to home of Bots
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://files.catbox.moe/yndl4u.jpg">
-    <img src="https://files.catbox.moe/yndl4u.jpg" width="100%" height="auto">
+  <a href="https://files.catbox.moe/0hqjur.jpg">
+    <img src="https://files.catbox.moe/0hqjur.jpg" width="100%" height="auto">
   </a>
 </p>
 
