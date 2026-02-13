@@ -1,6 +1,6 @@
 services:
   - type: worker
-    name: McJunior-EMD
+    name: McJunior-EMN
     env: docker
     region: frankfurt
     plan: free
