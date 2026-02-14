@@ -1,9 +1,9 @@
 {
-  "name": "McJunior-EMN",
-  "description": "McJunior EMN, your friendly assistant!",
+  "name": "McJunior-XMD",
+  "description": "McJunior XMD, your friendly assistant!",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
   "keywords": [],
-  "repository": "https://github.com/Vinpink2/JUNE-X",
+  "repository": "https://github.com/DEV-BYTE-SOURSE/McJUNIOR-XMD",
   "stack": "container",
   "addons": [
     {
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'JUNE-MD:~'.",
+    "description": "Must begin with 'McJUNIOR-XMD:~'.",
     "value": "",
     "required": true
   }
