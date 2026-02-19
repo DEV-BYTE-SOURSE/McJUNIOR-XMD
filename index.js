@@ -2,4 +2,5 @@
 * - Supreme
 * - caspar-tech
 * - tennor-modz
-*/process.env.SESSION_ID
+*/
+process.env.SESSION_ID="" 
